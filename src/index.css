@@ -1,0 +1,176 @@
+
+/* Navbar */
+#navbar {
+  display: flex;
+  font-size: 25px;
+  border-radius: 10px;
+}
+.item {
+  list-style: none;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 25px;
+}
+.item:hover {
+  background-color: darkslategray;
+  box-shadow: 10px 10px;
+}
+a {
+  font-weight: 500;
+  color: #1a1a1a;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+/* Body */
+/* Aboutpage */
+
+.container-about {
+  text-align: center;
+  margin: 0px 30px;
+}
+.skill {
+  background-color: darkcyan;
+  border-radius: 25px;
+  padding: 25px;
+}
+
+/* HomePage */
+span {
+  color: darkcyan;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 100px;
+}
+.index-content {
+  text-align: left;
+  margin-left: 30px;
+  padding-bottom: 150px;
+}
+h1 {
+  font-size: 40px;
+}
+/* 
+/* Portofolio */
+.h1-porto {
+  text-align: center;
+}
+
+/* article */
+.card {
+  /* width: 18rem; */
+  max-width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.artikel {
+  text-align: center;
+}
+
+.card {
+  margin: 10px 10px;
+  padding: 25px;
+  border-radius: 25px;
+}
+.card-article {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 25px;
+  padding: 20px;
+  border-radius: 25px;
+  background-color: darkcyan;
+}
+.card:hover {
+  box-shadow: 10px 10px;
+}
+.card > img {
+  width: 300px;
+  height: 200px;
+}
+
+.card-body {
+  background-color: darkcyan;
+  border-radius: 25px;
+}
+.card-project {
+  margin-left: 10px;
+  /* justify-content: center; */
+  /* width: 18rem; */
+}
+.project-card {
+  text-align: center;
+  background-color: darkcyan;
+}
+.project {
+  width: 200px;
+  /* border-radius: 100%; */
+  margin-right: 10px;
+  min-height: 300px;
+  max-width: 350px;
+}
+.card-text, .card-title {
+  margin-top: 20px;
+}
+
+
+
+
+
+
+
+.btn-toggle {
+  background-color: cadetblue;
+  border-radius: 25px;
+  padding: 10px 5px;
+  margin: 10px 10px;
+}
+
+
+
+.artikel-data {
+  margin: 30px 0px;
+}
+
+
+
+
+
+
+Link {
+  list-style:none;
+}
+.footer {
+  background-color: rgba(0, 0, 0, 0.2)
+}
+
+
+.profil-card {
+  max-width: 100%;
+  text-align: center;
+}
+.profil {
+  border-radius: 50%;
+  max-width: 50%;
+}
+
+.card-profil-homepage {
+  margin: 100px 0px;
+  padding-bottom: 50px;
+}
+.card-profil {
+  text-align: left;
+  margin: 0px 15px;
+}
+
+
+.profil-about {
+  max-width: 40%;
+  border-radius: 50%;
+  margin: 20px 0px;
+}
