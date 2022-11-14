@@ -6,7 +6,7 @@ import Portofolio from './pages/Portofolio'
 import AboutPage from './pages/AboutPage'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css'
 import './darkmode.css'
 
